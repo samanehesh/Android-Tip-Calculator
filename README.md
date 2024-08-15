@@ -10,7 +10,7 @@ Real-Time Calculation: Automatically updates the tip amount and total as the use
 
 User-Friendly Interface: Clean and responsive design for easy use.
 
-Installation
+Installation:
 
 Clone the repository:
 
@@ -19,7 +19,6 @@ git clone https://github.com/samanehesh/Android-Tip-Calculator.git
 Open the project in Android Studio.
 Build and run the application on your Android device or emulator.
 
-Screenshots
 
 Technologies Used
 Kotlin
