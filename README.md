@@ -13,8 +13,7 @@ User-Friendly Interface: Clean and responsive design for easy use.
 Installation
 
 Clone the repository:
-bash
-Copy code
+
 git clone https://github.com/samanehesh/Android-Tip-Calculator.git
 
 Open the project in Android Studio.
